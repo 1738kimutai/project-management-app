@@ -49,7 +49,7 @@ nav > button {
   margin-left: 1.5rem;
   font-size: 1.2rem;
   text-decoration: none;
-  color: #428240;
+  color: blue;
 }
 nav > a:hover {
   color: darkgrey;
@@ -72,7 +72,7 @@ nav > button > a {
   /* border: 1px solid red; */
 }
 nav > button > a:hover {
-  color: #428240;
+  color: orange;
 }
 /* ========= */
 .loginFormContainer {
@@ -84,6 +84,7 @@ nav > button > a:hover {
   margin:  auto 0;
 }
 .loginForm {
+  background-color: white;
   padding: 4rem 3rem;
   /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
   width: 30%;
