@@ -9,3 +9,6 @@ Ruby
 ActiveRecord
 SQlite3
 Rack
+
+
+https://github.com/1738kimutai/phase-3-sinatra-react-project.git
