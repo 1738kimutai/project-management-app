@@ -17,12 +17,11 @@ function App() {
           <Login user={user} setUser={setUser} />
         </Route>
         <Route exact path='/'>
-          <Home
             user={user}
             setUser={setUser}
             projects={projects}
             setProjects={setProjects}
-          />
+          /
         </Route>
       </Switch>
     </div>
